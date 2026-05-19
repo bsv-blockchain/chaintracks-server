@@ -1,5 +1,9 @@
 # ChaintracksService with Bulk Headers CDN
 
+> **⚠️ This repository is being archived.**
+>
+> Development has moved to the [ts-stack monorepo](https://github.com/bsv-blockchain/ts-stack/tree/main/infra/chaintracks-server). Open issues will be migrated there. This repository will be archived in the coming days — please open new issues and PRs in the monorepo going forward.
+
 A production-ready TypeScript Express server wrapping `ChaintracksService` from `@bsv/wallet-toolbox`, featuring a built-in **Bulk Headers CDN** for hosting and serving blockchain headers to other servers.
 
 ## 🚀 Quick Start
